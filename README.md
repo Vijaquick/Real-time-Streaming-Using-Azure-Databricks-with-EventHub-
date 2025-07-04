@@ -1,0 +1,2 @@
+# Real-time-Streaming-Using-Azure-Databricks-with-EventHub-
+Real-Time Order Processing Pipeline using Databricks Delta Lake This project demonstrates an end-to-end real-time streaming ETL pipeline built on Databricks using Structured Streaming, Delta Lake, and PySpark. It ingests simulated order data, processes it in stages (Bronze → Silver → Gold), and writes to Delta tables for downstream analytics.
