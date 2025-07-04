@@ -1,0 +1,32 @@
+	{
+	  "order_id": "ORD100291",
+	  "customer_id": "CUST2081",
+	  "customer_name": "Alen",
+	  "order_date": "2025-07-03",
+	  "shipping_address": {
+		"street": "123 MG Road",
+		"city": "Bangalore",
+		"state": "Karnataka",
+		"pincode": "560001"
+	  },
+	  "items": [
+		{
+		  "item_id": "P00221",
+		  "item_name": "Wireless Mouse",
+		  "category": "Electronics",
+		  "quantity": 2,
+		  "price_per_unit": 599.00
+		},
+		{
+		  "item_id": "P00621",
+		  "item_name": "Laptop Stand",
+		  "category": "Accessories",
+		  "quantity": 1,
+		  "price_per_unit": 1499.00
+		}
+	  ],
+	  "total_amount": 2697.00,
+	  "payment_method": "UPI",
+	  "payment_status": "Paid",
+	  "delivery_status": "Shipped"
+	}
