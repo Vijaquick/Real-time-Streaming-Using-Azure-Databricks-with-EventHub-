@@ -9,11 +9,11 @@ This project demonstrates an end-to-end real-time streaming ETL pipeline built o
 ![Real-Time Streaming Architecture](https://raw.githubusercontent.com/malvik01/Real-Time-Streaming-with-Azure-Databricks/main/Azure%20Solution%20Architecture.png)
 Azure Event Hub (Order Events) 
           ↓
-   🟤 Bronze Layer (Raw staging layer in Delta)
+   Bronze Layer (Raw staging layer in Delta)
           ↓
-   🟦 Silver Layer (Cleaned, flattened, structured tables)
+   Silver Layer (Cleaned, flattened, structured tables)
           ↓
-   🟨 Gold Layer (Aggregated analytics: customer spend, item sales, revenue)
+   Gold Layer (Aggregated analytics: customer spend, item sales, revenue)
 
 
 # Features
@@ -31,7 +31,7 @@ Shipping Address
 
 Payments
 
-🟨 Gold Layer:
+Gold Layer:
 
 Customer total spend
 
