@@ -8,7 +8,7 @@
 # MAGIC - Storage: Processed data stored Azure Data Lake (Delta Format).
 # MAGIC - Visualisation: Data visualized using Power BI.
 # MAGIC
-# MAGIC | Developer By            | LastUpdate  |               Team        |
+# MAGIC | Developed By            | LastUpdate  |               Team        |
 # MAGIC |-----------------|-------------|---------------------------|
 # MAGIC | Vignesan        | 04-07-2025  | Data Team                 |
 # MAGIC
